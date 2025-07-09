@@ -12,7 +12,7 @@
 4. Писать свой код и наслаждаться автоматической сборкой проекта.
 
 ## Установленные NPM пакеты
-[gulp] (https://www.npmjs.com/package/gulp) Сборщик Gulp  
+<a href="https://www.npmjs.com/package/gulp">gulp</a> Сборщик Gulp  
 [gulp-less] (https://www.npmjs.com/package/gulp-less) Компиляция Less файлов  
 [gulp-uglify] (https://www.npmjs.com/package/gulp-uglify) Сжатие и оптимизация Java Script кода  
 [gulp-babel] (https://www.npmjs.com/package/gulp-babel) Преобразует Java Script в старый стандарт  
