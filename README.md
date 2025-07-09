@@ -13,11 +13,11 @@
 
 ## Установленные NPM пакеты
 <a href="https://www.npmjs.com/package/gulp">gulp</a> Сборщик Gulp  
-[gulp-less] (https://www.npmjs.com/package/gulp-less) Компиляция Less файлов  
-[gulp-uglify] (https://www.npmjs.com/package/gulp-uglify) Сжатие и оптимизация Java Script кода  
-[gulp-babel] (https://www.npmjs.com/package/gulp-babel) Преобразует Java Script в старый стандарт  
-[@babel/core] (https://www.npmjs.com/package/@babel/core) Ядро Babel  
-[gulp-clean-css] (https://www.npmjs.com/package/gulp-clean-css) Минификация и оптимизация CSS файлов  
-[del] (https://www.npmjs.com/package/del) Удаление каталогов и файлов  
-[gulp-concat] (https://www.npmjs.com/package/gulp-concat) Объединение нескольких файлов в один  
-[gulp-rename] (https://www.npmjs.com/package/gulp-rename) Переименовывает файлы
+<a href="https://www.npmjs.com/package/gulp-less">gulp-less</a> Компиляция Less файлов  
+<a href="https://www.npmjs.com/package/gulp-uglify">gulp-uglify</a> Сжатие и оптимизация Java Script кода  
+<a href="https://www.npmjs.com/package/gulp-babel">gulp-babel</a> Преобразует Java Script в старый стандарт  
+<a href="https://www.npmjs.com/package/@babel/core">@babel/core</a> Ядро Babel  
+<a href="https://www.npmjs.com/package/gulp-clean-css">gulp-clean-css</a> Минификация и оптимизация CSS файлов  
+<a href="https://www.npmjs.com/package/del">del</a> Удаление каталогов и файлов  
+<a href="https://www.npmjs.com/package/gulp-concat">gulp-concat</a> Объединение нескольких файлов в один  
+<a href="https://www.npmjs.com/package/gulp-rename">gulp-rename</a> Переименовывает файлы
